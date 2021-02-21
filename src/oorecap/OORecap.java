@@ -32,7 +32,13 @@ public class OORecap {
     
     d1.setOwner(p2);
     
-        System.out.println(d1);
+    System.out.println(d1);
+    
+    Dog d2 = new Dog("Dobby, ");     
+    
+    d2.setOwner(p1);
+    
+    System.out.println(d2);
     
     }
             

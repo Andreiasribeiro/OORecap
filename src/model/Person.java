@@ -35,9 +35,10 @@ public class Person {
     * Default values
     */
     public Person(){
+        System.out.println("New person created");
         this.age = 18;
         this.gender = "Female";
-        this.name = "Andreia";
+        this.name = "Andréia";
    
     }
     //METHODS:
