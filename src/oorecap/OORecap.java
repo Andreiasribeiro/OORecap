@@ -40,6 +40,12 @@ public class OORecap {
     
     System.out.println(d2);
     
+    Dog d3 = new Dog("Dobby, ");     
+    
+    d3.setOwner(p2);
+    
+    System.out.println(d3);
+    
     }
             
           
